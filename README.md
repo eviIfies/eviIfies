@@ -37,8 +37,6 @@ pee
 
 <div align="center">
 
-<img width="150" height="175" alt="gif sparkle text divider" src="https://i.imgur.com/laKwa6Y.gif" /><img width="150" height="175" alt="gif sparkle text divider" src="https://i.imgur.com/laKwa6Y.gif" />
-
 
 <div align="center">
 
